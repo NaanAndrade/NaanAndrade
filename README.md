@@ -4,7 +4,7 @@
 
 ### Se quiser entrar em contato para trabalharmos juntos ou até mesmo estudar, segue abaixo um pouco sobre mim.
 
-## Entre em contato!  📨 
+## Entre em contato!
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551985371317)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naan.andrade/)
