@@ -2,7 +2,7 @@
 
 ### Atualmente estudo para atuar na área de desenvolvimento, ainda aberto a escolher entre Front-end e Back-end.
 
-### Se quiser entrar em contato para trabalharmos juntos ou até mesmo estudar, segue abaixo um pouco sobre mim.
+### Se quiser entrar em contato para estudar ou até mesmo para trabalharmos juntos, segue abaixo um pouco sobre mim.
 
 ## Entre em contato!
 
