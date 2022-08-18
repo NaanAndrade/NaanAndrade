@@ -1,4 +1,4 @@
-### Olá, eu sou o Naan!
+### Olá, meu nome é Naan! ✌
 
 ## Entre em contato!
 
