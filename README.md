@@ -1,5 +1,5 @@
 ## Prazer, meu nome é Naan! 
-Cancel changes
+
 ### Atualmente estudo para atuar na área de desenvolvimento, ainda aberto a escolher entre Front-end e Back-end.
 
 ### Se quiser entrar em contato para estudar ou até mesmo para trabalharmos juntos, segue abaixo um pouco sobre mim.
