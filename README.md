@@ -1,5 +1,3 @@
-## Prazer, meu nome é Naan!
-
 ### Atualmente estudo para atuar na área de desenvolvimento, ainda aberto a escolher em me especializar em Front-end ou Back-end.
 ### Estou cursando Análise de Sistemas no Instituto Federal e acompanho demais cursos online das tecnologias de meu interesse.
 
