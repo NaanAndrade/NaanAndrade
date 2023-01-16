@@ -1,9 +1,9 @@
-### Atualmente estudo para atuar na área de desenvolvimento, ainda aberto a escolher em me especializar em Front-end ou Back-end.
-### Estou cursando Análise de Sistemas no Instituto Federal e acompanho demais cursos online das tecnologias de meu interesse.
+### Atualmente Suporte N2 e cursando Análise e Desenvolvimento de Sistemas.
+### Procuro oportunidades para atuar como Desenvolver Front-End ou Back-End.
 
 <br>
 
-### Se quiser entrar em contato para trabalharmos juntos, segue abaixo um pouco sobre mim.
+### Se tiver interesse em entrar em contato para trabalharmos juntos, segue abaixo um pouco sobre mim.
 
 ## Contatos
 
