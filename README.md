@@ -24,12 +24,12 @@
 </div>
     
     
-### Banco de Dados    
+### Banco de Dados  
 <div style="display: inline_block">
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
     
-### Frameworks e Bibiliotecas
+### Framework e Bibilioteca
 <div style="display: inline_block"> 
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
