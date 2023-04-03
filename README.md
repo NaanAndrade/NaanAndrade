@@ -1,10 +1,3 @@
-### Atualmente Suporte N2 e cursando Análise e Desenvolvimento de Sistemas.
-### Procuro oportunidades para atuar como Desenvolver Front-End ou Back-End.
-
-<br>
-
-### Se tiver interesse em entrar em contato para trabalharmos juntos, segue abaixo um pouco sobre mim.
-
 ## Contatos
 
 <a href = "https://wa.me/5551985371317"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
